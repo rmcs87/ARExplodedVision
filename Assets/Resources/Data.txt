@@ -1,0 +1,11 @@
+﻿{"id":0,"title":"Vagão GDT","content":"Vagão do tipo gôndola, dispondo de uma abertura em seu topo, sendo recomendado para transporte de minério, carvão e produtos siderúrgicos."}
+{"id":1,"title":"Estrado","content":"Têm como objetivo aumentar o atrito e reduzir o risco de deslocamento das bobinas sobre a plataforma do vagão, garantindo a segurança durante o transporte."}
+{"id":2,"title":"Rodeiro frontal","content":"São constituídos por duas rodas e eixo, não havendo movimento relativo entre o eixo e as rodas devido à montagem por interferência."}
+{"id":3,"title":"Rodeiro traseiro","content":"São constituídos por duas rodas e eixo, não havendo movimento relativo entre o eixo e as rodas devido à montagem por interferência."}
+{"id":4,"title":"Travessa central frontal","content":"Suporta o veículo de carga a partir do prato pião que está em seu ponto central, que se conecta com o prato pião do estrado, permitindo o ajuste livre do truque em relação ao corpo."}
+{"id":5,"title":"Travessa central traseira","content":"Suporta o veículo de carga a partir do prato pião que está em seu ponto central, que se conecta com o prato pião do estrado, permitindo o ajuste livre do truque em relação ao corpo."}
+{"id":6,"title":"Travessas laterais frontais","content":"As travessas laterais entram em contato com a travessa central pela suspenção. Também se conectam com os rodeiros através de rolamentos."}
+{"id":7,"title":"Travessas laterais traseiras","content":"As travessas laterais entram em contato com a travessa central pela suspenção. Também se conectam com os rodeiros através de rolamentos."}
+{"id":8,"title":"Gôndola","content":"Comprimento: 8,11 m \n Largura: 2 metros\n Capacidade: até 127.000 Kg.\n Tara: 21.000 KgF."}
+{"id":9,"title":"Mola Frontal","content":"Através das molas, o truque é capaz de amortecer os impactos entre o contato roda-trilho e o vagão."}
+{"id":10,"title":"Mola Traseira","content":"Através das molas, o truque é capaz de amortecer os impactos entre o contato roda-trilho e o vagão."}
